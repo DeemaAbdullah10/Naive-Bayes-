@@ -18,12 +18,13 @@ The main objective of this project is to analyze customer purchase patterns usin
 ## Installation
 
 To run this project, you'll need to have Python installed along with the following libraries:
+- `pandas`
+- `numpy`
+- `matplotlib`
+- `seaborn`
+- ` mlxtend.frequent_patterns`
 
-. pandas
-. numpy
-. matplotlib
-. mlxtend.frequent_patterns
-. seaborn
+
 
 ## Usage
 Clone the repository:
