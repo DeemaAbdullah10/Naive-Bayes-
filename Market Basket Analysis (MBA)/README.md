@@ -50,4 +50,4 @@ This project is licensed under the MIT License. See the LICENSE file for detai
 ## Contact
 For questions or feedback, please reach out to:
 
-Lamar Deeema Email: Lamar.28859@gmail.com 
+Lamar Deeema Email: Lamar.28859@gmail.com , Deema-100@outlook.sa
