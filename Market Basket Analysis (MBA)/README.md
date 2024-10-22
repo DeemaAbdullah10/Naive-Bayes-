@@ -32,7 +32,7 @@ git clone https://github.com/DeemaAbdullah10/Naive-Bayes-/new/main/Market%20Bask
 
 Run the script: Execute your Jupyter notebook or Python script that contains the analysis code.
 ## Data Sources
-The dataset used in this project is the Twitter Sentiment Analysis Dataset, which can be found here.
+The dataset used in this project is the Online Retail Analysis Dataset, which can be found here.
 (https://archive.ics.uci.edu/ml/datasets/online+retail)
 
 ## Results
