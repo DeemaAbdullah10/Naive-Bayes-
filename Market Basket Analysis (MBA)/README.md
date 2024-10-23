@@ -29,7 +29,7 @@ To run this project, you'll need to have Python installed along with the followi
 ## Usage
 Clone the repository:
 
-git clone https://github.com/DeemaAbdullah10/Naive-Bayes-/new/main/Market%20Basket%20Analysis%20(MBA)
+git clone (https://github.com/DeemaAbdullah10/project-DataAnalysis2/blob/main/Market%20Basket%20Analysis%20(MBA)/README.md)
 
 Run the script: Execute your Jupyter notebook or Python script that contains the analysis code.
 ## Data Sources
